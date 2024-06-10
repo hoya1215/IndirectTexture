@@ -1,0 +1,11 @@
+D:\Epic Games\HomeTest\Plugins\IndirectTexturePlugin\Intermediate\Build\Win64\UE4Editor\Development\IndirectTexturePlugin\Definitions.IndirectTexturePlugin.h
+D:/Epic Games/HomeTest/Plugins/IndirectTexturePlugin/Source/IndirectTexturePlugin/Private/IndirectTexture.cpp
+D:\Epic Games\HomeTest\Plugins\IndirectTexturePlugin\Source\IndirectTexturePlugin\Public\IndirectTexture.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Epic Games\HomeTest\Plugins\IndirectTexturePlugin\Intermediate\Build\Win64\UE4Editor\Inc\IndirectTexturePlugin\IndirectTexture.generated.h
+D:/Epic Games/HomeTest/Plugins/IndirectTexturePlugin/Source/IndirectTexturePlugin/Private/IndirectTexturePlugin.cpp
+D:\Epic Games\HomeTest\Plugins\IndirectTexturePlugin\Source\IndirectTexturePlugin\Public\IndirectTexturePlugin.h
